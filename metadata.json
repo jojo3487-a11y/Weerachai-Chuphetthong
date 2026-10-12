@@ -1,0 +1,6 @@
+{
+  "name": "ร้านป้าศรี ( ศรีรวยการค้า )POS",
+  "description": "ระบบขายสินค้าหน้าร้านและจัดการสต็อกสำหรับร้านขายของชำและโชห่วย คิดเงินด่วน บันทึกแปะโป้ง สแกนพร้อมเพย์ และสรุปยอดขาย",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
